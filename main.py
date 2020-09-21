@@ -1,3 +1,6 @@
+#!/usr/bin/python
+#coding = utf-8
+# by g1ng3rb1t3 (kevo)
 import asyncio
 import logging
 import re
@@ -47,6 +50,8 @@ logo_b =('''
 |      Github: https://www.github.com/g1ng3rb1t3      |
 :=====================================================:
 ''')
+####You copying code? All credits to me and ziziwho
+###All thanks to ziziwho for the permit ^-^
 try:
 	print(logo_a)
 	print(f'{random.choice(cols)}{logo_b}')
