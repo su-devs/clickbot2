@@ -43,10 +43,10 @@ Joining channels
 ```
 All errors taken care of
 ```
-# Credits 
-```
-https://www.github.com/ziziwho
-```
+# Credits
+
+[Zizi who]('https://www.github.com/ziziwho')
+
 # Disclaimer
 ```
 I am not responsible for any misuse
