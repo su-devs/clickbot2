@@ -45,7 +45,7 @@ All errors taken care of
 ```
 # Credits
 
-[Zizi who]('https://www.github.com/ziziwho')
+[Ziziwho](https://www.github.com/ziziwho)
 
 # Disclaimer
 ```
