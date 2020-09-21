@@ -6,6 +6,7 @@ Telegram bot autoclaim crypto
 <p align="left">
   <a><img title="pyto"src="https://img.shields.io/badge/10%25-knowledge-redblack"></a>
 </p>
+
 # Installation
 ```
 $ git clone https://www.github.com/g1ng3rb1t3/clickbot2
