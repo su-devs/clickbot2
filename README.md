@@ -1,3 +1,5 @@
+[New Claim script](https://www.github.com/g1ng3rb1t3/Dogeclick_channeljoin_bot)
+
 # clickbot2
 Telegram bot autoclaim crypto
 <P align="left">
@@ -51,4 +53,3 @@ All errors taken care of
 ```
 I am not responsible for any misuse
 ```
-[New Claim script](https://www.github.com/Dogeclick_channeljoin_bot)
