@@ -51,3 +51,4 @@ All errors taken care of
 ```
 I am not responsible for any misuse
 ```
+[New Claim script](https://www.github.com/Channel_join_bot)
