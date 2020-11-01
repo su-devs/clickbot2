@@ -4,12 +4,8 @@
 Telegram bot autoclaim crypto
 <P align="left">
   <a><img title="pyto"src="https://img.shields.io/badge/90%25-Python-yellowgreen"></a>
-</p>
-<p align="left">
   <a><img title="pyto"src="https://img.shields.io/badge/5%25-knowledge-redblack"></a>
-</p>
-<P align="left">
-  <a><img title="pyto"src="https://img.shields.io/badge/5%25-your support-yellowgreen"></a>
+<a><img title="pyto"src="https://img.shields.io/badge/5%25-your support-yellowgreen"></a>
 </p>
 
 # Installation
