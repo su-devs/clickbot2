@@ -10,7 +10,7 @@ Telegram bot autoclaim crypto
 
 # Installation
 ```
-$ git clone https://www.github.com/g1ng3rb1t3/clickbot2
+$ git clone https://www.github.com/0xbr0/clickbot2
 $ cd clickbot2
 $ pip install -r requirements.txt
 
