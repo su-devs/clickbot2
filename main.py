@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #coding = utf-8
-# by g1ng3rb1t3 (kevo)
+# by 0xbr0 (mbithi)
 import asyncio
 import logging
 import re
@@ -45,13 +45,12 @@ logo_a = (green+'''                         z$b
                         4    %''')
 logo_b =('''
 :=====================================================:
-|Script version: 1.0		       	by g1ng3rb1t3 |
+|Script version: 1.0		       	by 0xbr0      |
 |======================multibot=======================|
-|      Github: https://www.github.com/g1ng3rb1t3      |
+|      Github: https://www.github.com/0xbr0           |
 :=====================================================:
 ''')
-####You copying code? All credits to me and ziziwho
-###All thanks to ziziwho for the permit ^-^
+
 try:
 	print(logo_a)
 	print(f'{random.choice(cols)}{logo_b}')
@@ -347,5 +346,5 @@ except KeyboardInterrupt:
 	client.disconnect()
 	_time(f'{red}Closed')
 	time.sleep(2)
-	_time(f'{blue}By g1ng3rb1t3 (kevo)')
+	_time(f'{blue}By 0xbr0 (mbithi)')
 	exit(1)
